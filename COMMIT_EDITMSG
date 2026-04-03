@@ -1,0 +1,9 @@
+Add files to prepare the project for deployment on Railway
+
+Create a Dockerfile to build and run the application, and a railway.json configuration file for deployment settings.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 10d6557f-93a1-4ac8-9a03-36d9b974b8a1
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 6057ff13-4856-48a2-8974-2ddf25f1a413
+Replit-Helium-Checkpoint-Created: true
